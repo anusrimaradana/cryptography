@@ -1,0 +1,4 @@
+A cipher is a method used to encode or encrypt information, making it unreadable to anyone who does not have the key to decode it.
+ENCRYPTION AND DECRYPTION: Ciphers transform plain text into ciphertext. ENCRYPTION is the process of converting plaintext to ciphertext, while DECRYPTION is the reverse process.
+
+Analysing cryptographic protocols rigorously is the field of cryptanalysis.
